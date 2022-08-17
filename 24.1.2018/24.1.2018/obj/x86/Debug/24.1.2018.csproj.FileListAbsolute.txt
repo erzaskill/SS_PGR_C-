@@ -1,0 +1,9 @@
+M:\PRG\24.1.2018\24.1.2018\bin\Debug\24.1.2018.exe
+M:\PRG\24.1.2018\24.1.2018\bin\Debug\24.1.2018.pdb
+M:\PRG\24.1.2018\24.1.2018\obj\x86\Debug\24.1.2018.exe
+M:\PRG\24.1.2018\24.1.2018\obj\x86\Debug\24.1.2018.pdb
+Z:\Documents\PRG\24.1.2018\24.1.2018\obj\x86\Debug\24.1.2018.exe
+Z:\Documents\PRG\24.1.2018\24.1.2018\obj\x86\Debug\24.1.2018.pdb
+Z:\Documents\PRG\24.1.2018\24.1.2018\bin\Debug\24.1.2018.exe
+Z:\Documents\PRG\24.1.2018\24.1.2018\bin\Debug\24.1.2018.pdb
+Z:\Documents\PRG\24.1.2018\24.1.2018\obj\x86\Debug\24.1.2018.csprojResolveAssemblyReference.cache

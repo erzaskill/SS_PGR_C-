@@ -1,0 +1,16 @@
+C:\Users\jiri.chudoba\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jiri.chudoba\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jiri.chudoba\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\jiri.chudoba\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+Z:\prg\Prvni_hodina\Prvni_hodina\bin\Debug\Prvni_hodina.exe
+Z:\prg\Prvni_hodina\Prvni_hodina\bin\Debug\Prvni_hodina.pdb
+Z:\prg\Prvni_hodina\Prvni_hodina\obj\x86\Debug\Prvni_hodina.exe
+Z:\prg\Prvni_hodina\Prvni_hodina\obj\x86\Debug\Prvni_hodina.pdb
+Z:\prg\Prvni_hodina\Prvni_hodina\obj\x86\Debug\Prvni_hodina.csprojResolveAssemblyReference.cache
+Z:\Zapisy\PRG\PRG IT3\Prvni_hodina\Prvni_hodina\obj\x86\Debug\Prvni_hodina.exe
+Z:\Zapisy\PRG\PRG IT3\Prvni_hodina\Prvni_hodina\obj\x86\Debug\Prvni_hodina.pdb
+Z:\Zapisy\PRG\PRG IT3\Prvni_hodina\Prvni_hodina\bin\Debug\Prvni_hodina.exe
+Z:\Zapisy\PRG\PRG IT3\Prvni_hodina\Prvni_hodina\bin\Debug\Prvni_hodina.pdb
+Z:\Zapisy\PRG\PRG IT3\Prvni_hodina\Prvni_hodina\obj\x86\Debug\Prvni_hodina.csprojResolveAssemblyReference.cache
+C:\test\Prvni_hodina\Prvni_hodina\obj\x86\Debug\Prvni_hodina.exe
+C:\test\Prvni_hodina\Prvni_hodina\obj\x86\Debug\Prvni_hodina.pdb

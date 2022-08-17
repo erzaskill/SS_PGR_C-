@@ -1,0 +1,4 @@
+M:\Bezděk\C#\nevjem\bin\Debug\nevjem.exe
+M:\Bezděk\C#\nevjem\bin\Debug\nevjem.pdb
+M:\Bezděk\C#\nevjem\obj\x86\Debug\nevjem.exe
+M:\Bezděk\C#\nevjem\obj\x86\Debug\nevjem.pdb

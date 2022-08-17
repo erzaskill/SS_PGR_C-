@@ -1,0 +1,6 @@
+C:\Users\test2.17\AppData\Local\Temporary Projects\test\bin\Debug\test.exe
+C:\Users\test2.17\AppData\Local\Temporary Projects\test\bin\Debug\test.pdb
+C:\Users\test2.17\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.exe
+C:\Users\test2.17\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.pdb
+Z:\Zapisy\PRG\PRG IT3\test\test\obj\x86\Debug\test.exe
+Z:\Zapisy\PRG\PRG IT3\test\test\obj\x86\Debug\test.pdb

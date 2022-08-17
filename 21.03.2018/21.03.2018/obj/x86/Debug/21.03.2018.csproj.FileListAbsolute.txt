@@ -1,0 +1,10 @@
+M:\PRG\21.03.2018\21.03.2018\bin\Debug\21.03.2018.exe
+M:\PRG\21.03.2018\21.03.2018\bin\Debug\21.03.2018.pdb
+M:\PRG\21.03.2018\21.03.2018\obj\x86\Debug\21.03.2018.exe
+M:\PRG\21.03.2018\21.03.2018\obj\x86\Debug\21.03.2018.pdb
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\21.03.2018\21.03.2018\bin\Debug\21.03.2018.exe
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\21.03.2018\21.03.2018\bin\Debug\21.03.2018.pdb
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\21.03.2018\21.03.2018\obj\x86\Debug\21.03.2018.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\21.03.2018\21.03.2018\obj\x86\Debug\21.03.2018.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\21.03.2018\21.03.2018\obj\x86\Debug\21.03.2018.exe
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\21.03.2018\21.03.2018\obj\x86\Debug\21.03.2018.pdb

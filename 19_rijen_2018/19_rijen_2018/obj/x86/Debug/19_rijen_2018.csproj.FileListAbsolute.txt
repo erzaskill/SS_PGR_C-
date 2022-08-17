@@ -1,0 +1,6 @@
+C:\Users\erik.praunsperger\AppData\Local\Temporary Projects\19_rijen_2018\bin\Debug\19_rijen_2018.exe
+C:\Users\erik.praunsperger\AppData\Local\Temporary Projects\19_rijen_2018\bin\Debug\19_rijen_2018.pdb
+C:\Users\erik.praunsperger\AppData\Local\Temporary Projects\19_rijen_2018\obj\x86\Debug\19_rijen_2018.exe
+C:\Users\erik.praunsperger\AppData\Local\Temporary Projects\19_rijen_2018\obj\x86\Debug\19_rijen_2018.pdb
+Z:\Zapisy\PRG\PRG IT3\19_rijen_2018\19_rijen_2018\obj\x86\Debug\19_rijen_2018.exe
+Z:\Zapisy\PRG\PRG IT3\19_rijen_2018\19_rijen_2018\obj\x86\Debug\19_rijen_2018.pdb

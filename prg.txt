@@ -1,0 +1,165 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class pole2
+    {
+        static int[] original = new int[10];
+
+        public static void nacet()
+        {
+            int spodek = 1;
+            int vrch = 100;
+
+            Random random = new Random();
+
+            for (int i = 0; i < original.Length; i++)
+            {
+                original[i] = random.Next(spodek, vrch + 1);
+            }
+            
+        }
+        public static void vypis()
+        {
+            Console.WriteLine("Origin?l: ");
+            foreach (int x in original)
+            { Console.WriteLine(x); }
+        }
+
+        public static void vzestupnyvypis()
+        {
+            int[] vzestupne = new int[original.Length];
+            Array.Copy(original, vzestupne, original.Length);
+            Array.Sort(vzestupne);
+
+            Console.WriteLine("Se?azeno vzestupn?: ");
+            foreach (int x in vzestupne)
+            { Console.WriteLine(x); }
+        }
+
+         public static void sestupnyvypis()
+        {
+            int[] sestupne = new int[original.Length];
+            Array.Copy(original, sestupne, original.Length);
+            Array.Reverse(sestupne);
+
+            Console.WriteLine("Se?azeno sestupn?: ");
+            foreach (int x in sestupne)
+            { Console.WriteLine(x); }
+        }
+
+        public static void hlavni()
+        {
+            nacet();
+            vypis();
+            vzestupnyvypis();
+            sestupnyvypis();
+            Console.ReadLine();
+        }
+    }
+}
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class classpole
+    {
+        public static void pole0()
+        {
+            int[] cislaPole = { 1, 2, 3, 4, 5, };
+
+            for (int i = 0; i < cislaPole.Length; i++)
+            { Console.WriteLine(cislaPole[i]); }      //zobraz? obsah pole
+            Console.ReadLine();
+        }
+        public static void pole1()
+        {
+            int[] cislaPole = new int[5];                   //deklarace pole
+            for (int i = 0; i < cislaPole.Length; i++)      //na?ten? do pole
+            {
+                Console.WriteLine("Zadej ??slo: ");
+                cislaPole[i] = int.Parse(Console.ReadLine());
+            }
+            //pruchod polem
+            for (int i = 0; i < cislaPole.Length; i++)
+                Console.WriteLine(cislaPole[i]);            //vypis hodnot pole
+
+            //cyklus foreach - jen pro ?ten?, hodnoty se nemohou m?nit
+            //foreach(int cislo in cislaPole)
+            //Console.WriteLine(cislo);
+
+            Console.WriteLine("Maximum: " + cislaPole.Max());
+            Console.WriteLine("Minimum: " + cislaPole.Min());
+            Console.WriteLine("Pr?m?r: " + cislaPole.Average());
+            Console.ReadLine();
+
+        }
+        public static void pole2()
+        {
+            int[] Pole = new int[5];
+            for (int i = 0; i < Pole.Length; i++)
+            {
+                Console.Write("Zadej ?islo: ");
+                Pole[i] = int.Parse(Console.ReadLine());
+            }
+            foreach (int c in Pole)
+            { Console.WriteLine(c); }
+            Console.WriteLine("Sou?et: {0}", Pole.Sum());
+            Console.ReadLine();
+        }
+        public static void pole4()
+        {
+            int spodek = 1;
+            int vrch = 100;
+
+            Random random = new Random();
+
+            Console.Write("Kolik?: ");
+            long x = long.Parse(Console.ReadLine());
+
+            int[] cisla = new int[x];
+
+            for (int i = 0; i < x; i++)
+            {
+                cisla[i] = random.Next(spodek, vrch + 1);
+            }
+            Console.WriteLine("V?pis: ");
+            for (int i = 0; i < cisla.Length; i++)
+            { Console.WriteLine(cisla[i]); }
+            Console.WriteLine("Pr?m?rn? hodnota: " + cisla.Average());
+            Console.WriteLine("Min: " + cisla.Min());
+
+            Array.Sort(cisla);                      //?azen? pole vzestupn?
+            Console.WriteLine("Vzestupn?: ");
+            for (int i = 0; i < cisla.Length; i++)
+            { Console.WriteLine(cisla[i]); }
+
+            Array.Reverse(cisla);                  //?azen? pole sestupn?
+            Console.WriteLine("Sestupn?: ");
+            for (int i = 0; i < cisla.Length; i++)
+            { Console.WriteLine(cisla[i]); }
+
+            Console.ReadLine();
+
+        }
+        public static void pole5()
+        {
+            int spo = 1;
+            int vrc = 100;
+            int pocet = 10;
+            Random gen = new Random();
+            Console.WriteLine("FAK JU");
+            int[] original = new int[pocet];
+            int[] sestupne = new int[pocet];
+            int[] vzestupne = new int[pocet];
+
+            for (int

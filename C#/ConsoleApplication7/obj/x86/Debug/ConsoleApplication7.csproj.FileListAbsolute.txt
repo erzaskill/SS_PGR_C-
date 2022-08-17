@@ -1,0 +1,5 @@
+M:\Bezděk\C#\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+M:\Bezděk\C#\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+M:\Bezděk\C#\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+M:\Bezděk\C#\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+M:\Bezděk\C#\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb

@@ -1,0 +1,19 @@
+C:\Users\erik.praunsperger\AppData\Local\Temporary Projects\Opakovani_7.09.2018\bin\Debug\Opakovani_7.09.2018.exe
+C:\Users\erik.praunsperger\AppData\Local\Temporary Projects\Opakovani_7.09.2018\bin\Debug\Opakovani_7.09.2018.pdb
+C:\Users\erik.praunsperger\AppData\Local\Temporary Projects\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.exe
+C:\Users\erik.praunsperger\AppData\Local\Temporary Projects\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.pdb
+C:\Users\erik.praunsperger\Documents\PRG\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.exe
+C:\Users\erik.praunsperger\Documents\PRG\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.pdb
+C:\Users\erik.praunsperger\Desktop\Zapisy\PRG\PRG\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.exe
+C:\Users\erik.praunsperger\Desktop\Zapisy\PRG\PRG\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.pdb
+Z:\Zapisy\PRG\PRG IT3\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.exe
+Z:\Zapisy\PRG\PRG IT3\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.pdb
+Z:\Zapisy\PRG\PRG IT3\Opakovani_7.09.2018\Opakovani_7.09.2018\bin\Debug\Opakovani_7.09.2018.exe
+Z:\Zapisy\PRG\PRG IT3\Opakovani_7.09.2018\Opakovani_7.09.2018\bin\Debug\Opakovani_7.09.2018.pdb
+Z:\Zapisy\PRG\PRG IT3\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\Opakovani_7.09.2018\Opakovani_7.09.2018\bin\Debug\Opakovani_7.09.2018.exe
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\Opakovani_7.09.2018\Opakovani_7.09.2018\bin\Debug\Opakovani_7.09.2018.pdb
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.exe
+C:\Users\Admin\Desktop\Erik\Do školy\PRG\C#\Opakovani_7.09.2018\Opakovani_7.09.2018\obj\x86\Debug\Opakovani_7.09.2018.pdb

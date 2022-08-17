@@ -1,0 +1,4 @@
+M:\Bezděk\C#\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+M:\Bezděk\C#\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+M:\Bezděk\C#\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+M:\Bezděk\C#\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb

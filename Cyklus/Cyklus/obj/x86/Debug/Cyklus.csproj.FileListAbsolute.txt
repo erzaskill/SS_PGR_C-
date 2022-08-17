@@ -1,0 +1,4 @@
+M:\PRG\Cyklus\Cyklus\bin\Debug\Cyklus.exe
+M:\PRG\Cyklus\Cyklus\bin\Debug\Cyklus.pdb
+M:\PRG\Cyklus\Cyklus\obj\x86\Debug\Cyklus.exe
+M:\PRG\Cyklus\Cyklus\obj\x86\Debug\Cyklus.pdb

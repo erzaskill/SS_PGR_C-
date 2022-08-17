@@ -1,0 +1,11 @@
+C:\Users\test2.11\AppData\Local\Temporary Projects\test\bin\Debug\test.exe
+C:\Users\test2.11\AppData\Local\Temporary Projects\test\bin\Debug\test.pdb
+C:\Users\test2.11\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.exe
+C:\Users\test2.11\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.pdb
+C:\Users\test2.11\Desktop\test\test\obj\x86\Debug\test.exe
+C:\Users\test2.11\Desktop\test\test\obj\x86\Debug\test.pdb
+C:\Users\test2.11\Desktop\test\test\bin\Debug\test.exe
+C:\Users\test2.11\Desktop\test\test\bin\Debug\test.pdb
+C:\Users\test2.11\Desktop\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\test\test\test\obj\x86\Debug\test.exe
+C:\test\test\test\obj\x86\Debug\test.pdb
